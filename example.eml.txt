@@ -1,0 +1,100 @@
+From: =?utf-8?b?U8Opcmdpbw==?= Carvalho <sergio.carvalho@sooma.com>
+Subject: Teste
+User-Agent: Internet Messaging Program (IMP) H6 (7.0.0-git)
+Content-Type: multipart/alternative; boundary="=_krNSD1ocxs1reH_udeF3a3P"
+MIME-Version: 1.0
+
+This message is in MIME format.
+
+--=_krNSD1ocxs1reH_udeF3a3P
+Content-Type: text/plain; charset=utf-8; format=flowed; DelSp=Yes
+Content-Description: Plaintext Message
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+   Cumprimentos cordiais,
+
+
+   S=C3=A9rgio Carvalho
+Sooma.com[1] | business email
+
+
+
+Links:
+------
+[1] http://www.sooma.com/
+
+--=_krNSD1ocxs1reH_udeF3a3P
+Content-Type: multipart/related; boundary="=_Gg4M8lgKfmsTQqCa31xwRJb";
+ start="-w_aw9SXzNNAiE3hx_lOQI9@sooma-profissional-webmail-01"
+
+This message is in MIME format.
+
+--=_Gg4M8lgKfmsTQqCa31xwRJb
+Content-Type: text/html; charset=utf-8
+Content-Description: HTML Message
+Content-Disposition: inline
+Content-ID: <-w_aw9SXzNNAiE3hx_lOQI9@sooma-profissional-webmail-01>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8"></head><body style="font-family:Arial;font-size:16px"><br>
+<br>
+<div>
+	<p>
+		<span id="imp-pmail-signature">Cumprimentos cordiais,</span></p>
+	<table border="0" cellspacing="0">
+		<tbody>
+			<tr>
+				<td style="width: 150px; vertical-align: middle; text-align: center; padding: 10px;" valign="middle">
+					<span id="imp-pmail-signature"><img class="fr-fic fr-dib" style="width: 100px;" src="cid:9ThOUQJVKXA0cF82ohqfB6v@sooma-profissional-webmail-01"></span></td>
+				<td style="padding: 10px;" valign="middle">
+					<span id="imp-pmail-signature">S&eacute;rgio Carvalho<br>
+					<a href="http://www.sooma.com/">Sooma.com</a> | business email</span></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+</body></html>
+
+--=_Gg4M8lgKfmsTQqCa31xwRJb
+Content-Type: image/png
+Content-Disposition: ; size=1856
+Content-Transfer-Encoding: base64
+Content-ID: <9ThOUQJVKXA0cF82ohqfB6v@sooma-profissional-webmail-01>
+
+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
+--=_Gg4M8lgKfmsTQqCa31xwRJb--
+
+--=_krNSD1ocxs1reH_udeF3a3P--
