@@ -1,4 +1,4 @@
-From: =?utf-8?b?U8Opcmdpbw==?= Carvalho <sergio.carvalho@sooma.com>
+From: =?utf-8?b?U8Opcmdpbw==?= Carvalho <john.doe@example.com>
 Subject: Teste
 User-Agent: Internet Messaging Program (IMP) H6 (7.0.0-git)
 Content-Type: multipart/alternative; boundary="=_krNSD1ocxs1reH_udeF3a3P"
